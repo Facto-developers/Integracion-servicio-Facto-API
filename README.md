@@ -5,7 +5,7 @@ https://www.facto.cl/servicio-api/
 
 # ¿Qué puedo hacer con este sitio?
 
-Te recomendamos visitar la pestaña WIKI para encontrar documentación de cómo integrarte fácilmente a la API de Facto, y también Code para ver ejemplos en diferentes lenguajes.
+Te recomendamos visitar la pestaña **Wiki** para encontrar documentación de cómo integrarte fácilmente a la API de Facto, y también **Code** para ver ejemplos en diferentes lenguajes.
 
 # Otras Características
 
